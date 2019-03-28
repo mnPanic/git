@@ -35,12 +35,13 @@ git clone git@work.github.com:repo.git
 ### Manually
 
 ```bash
-# For a single repository
+# For a single repository, overriding global configuration
 git config user.name "username"
 git config user.email "username@gmail.com"
 
-# Global config
+# Global config, stored at ~/.gitconfig
 git config --global user.name "username"
+git config user.email "username@gmail.com"
 ```
 
 ### Automatically
