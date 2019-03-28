@@ -1,6 +1,8 @@
 # git
 Cosas afines a Git
 
+## [Multiple users](multiple_users.md)
+
 ## Commit
 
 ### Change of authors
