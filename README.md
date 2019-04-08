@@ -1,7 +1,13 @@
 # git
 Cosas afines a Git
 
-## [Multiple users](multiple_users.md)
+## Config
+
+### [Multiple users](multiple_users.md)
+
+## Bash
+
+### [Bash completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
 ## Commit
 
