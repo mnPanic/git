@@ -19,4 +19,4 @@ Cosas afines a Git
 git commit --amend --author="Author Name <email@address.com>"
 ```
 
-#### [Multiple commits at once](change_authors.md)
+#### [Multiple commits at once](https://help.github.com/en/articles/changing-author-info)
