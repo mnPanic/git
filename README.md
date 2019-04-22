@@ -3,7 +3,7 @@ Cosas afines a Git
 
 ## Config
 
-### [Configure ssh keys](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+### [SSH](ssh.md)
 
 ### [Multiple users](multiple_users.md)
 
