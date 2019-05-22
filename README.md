@@ -11,6 +11,31 @@ Cosas afines a Git
 
 ### [Bash completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
+## Log
+
+### Search code
+
+```bash
+# Search for occurrences of 'string' in code
+git log -Sstring
+```
+
+### Search commits
+
+```bash
+# Search for occurrences of 'string' in commits
+git log --grep string
+git log --author="mnPanic"
+git log --since="1 week ago"
+```
+
+### View changes
+
+```bash
+ # Patch (diff)
+git log -p
+```
+
 ## Add
 
 ### Add empty directories
