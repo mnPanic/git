@@ -32,8 +32,31 @@ git log --since="1 week ago"
 ### View changes
 
 ```bash
- # Patch (diff)
+# Patch (diff)
 git log -p
+```
+
+## Stash
+
+```bash
+# Include untracked changes
+git stash --include-untracked
+git stash -u
+
+# Diff between local and last stash
+git stash show
+
+# Apply the last stash
+git stash apply
+# Drop the last stash
+git stash drop
+# Apply and drop the last stash
+git stash pop
+# Pop a specific stash
+git stash pop stash@{1}
+
+# List stash
+git stash list
 ```
 
 ## Add
