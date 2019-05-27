@@ -77,6 +77,10 @@ Use `git add -p` to add the _hunks_ of the file interactively.
 
 ## Commit
 
+### Auto fixup / squash
+
+[Reference](https://thoughtbot.com/blog/autosquashing-git-commits)
+
 ### Change of authors
 
 #### Single commit
