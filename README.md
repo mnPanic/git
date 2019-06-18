@@ -100,3 +100,13 @@ git commit --amend --author="Author Name <email@address.com>"
 ```
 
 #### [Multiple commits at once](https://help.github.com/en/articles/changing-author-info)
+
+## Rebase
+
+### Change branch base
+
+```bash
+git rebase --onto newBase oldBase feature/branch
+```
+
+[Reference](https://stackoverflow.com/questions/10853935/change-branch-base)
