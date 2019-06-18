@@ -14,6 +14,16 @@ Cosas afines a Git
 
 ## Log
 
+### A Dog
+
+```bash
+git log --all --decorate --oneline --graph
+```
+
+> "**A Dog**" = git log --**a**ll --**d**ecorate --**o**neline --**g**raph
+
+[Reference](https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs)
+
 ### Search code
 
 ```bash
