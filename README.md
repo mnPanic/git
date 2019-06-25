@@ -8,6 +8,14 @@ Cosas afines a Git
 
 ### [Multiple users](multiple_users.md)
 
+### Set `vim` as core editor
+
+`git config --global core.editor /usr/bin/vim`
+
+Or, more generally:
+
+`git config --global core.editor $(which vim)`
+
 ## Bash
 
 ### [Bash completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
