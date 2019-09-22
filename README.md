@@ -1,12 +1,10 @@
 # git
 
-Cosas afines a Git
+Git stuff
 
 ## Config
 
-### [SSH](ssh.md)
-
-### [Multiple users](multiple_users.md)
+### [Multiple users config](users.md)
 
 ### Set `vim` as core editor
 
