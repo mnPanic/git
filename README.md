@@ -14,6 +14,8 @@ Or, more generally:
 
 `git config --global core.editor $(which vim)`
 
+### [Global gitignore](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c)
+
 ## Bash
 
 ### [Bash completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
