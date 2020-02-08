@@ -95,6 +95,8 @@ Use `git add -p` to add the _hunks_ of the file interactively.
 
 ## Commit
 
+### [Message guidelines](https://chris.beams.io/posts/git-commit/)
+
 ### Auto fixup / squash
 
 [Reference](https://thoughtbot.com/blog/autosquashing-git-commits)
