@@ -120,3 +120,7 @@ git rebase --onto newBase oldBase feature/branch
 ```
 
 [Reference](https://stackoverflow.com/questions/10853935/change-branch-base)
+
+## Resources
+
+- [Missing Semester - Git](https://missing.csail.mit.edu/2020/version-control/)
