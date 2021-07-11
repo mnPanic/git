@@ -2,6 +2,8 @@
 
 Git stuff
 
+## [General guide](guide.md)
+
 ## Config
 
 ### [Multiple users config](users.md)
@@ -111,9 +113,13 @@ git commit --amend --author="Author Name <email@address.com>"
 
 #### [Multiple commits at once](https://help.github.com/en/articles/changing-author-info)
 
-## Rebase
+## Rewriting history
 
-### Change branch base
+- [Atlassian guide](https://www.atlassian.com/git/tutorials/rewriting-history)
+
+### Rebase
+
+#### Change branch base
 
 ```bash
 git rebase --onto newBase oldBase feature/branch
