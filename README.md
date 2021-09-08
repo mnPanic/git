@@ -130,3 +130,10 @@ git rebase --onto newBase oldBase feature/branch
 ## Resources
 
 - [Missing Semester - Git](https://missing.csail.mit.edu/2020/version-control/)
+
+## Push
+
+- En vez de hacer un push `--force`, siempre es mejor hacer `--force-with-lease`
+  que se asegura de no sobreescribir commits de otra persona.
+
+  Fuente: https://stackoverflow.com/questions/52823692/git-push-force-with-lease-vs-force
